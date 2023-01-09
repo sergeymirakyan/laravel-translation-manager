@@ -1596,6 +1596,10 @@ class Manager
 
         foreach ($groups as $group) {
             $this->exportTranslations($group->group);
+            
+            if (App::environment() === 'production') {
+                sleep(1);
+            }
         }
     }
 
