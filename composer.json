@@ -21,7 +21,7 @@
         "laravelcollective/html": "^6.1",
         "illuminate/translation": "v9.52.16",
         "doctrine/dbal": "~2.10",
-        "symfony/finder": "^5.0"
+        "symfony/finder": "^6.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^7.2    ",
