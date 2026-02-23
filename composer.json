@@ -20,7 +20,7 @@
         "illuminate/support": "^12.0",
         "laravelcollective/html": "dev-sergeymirakyan-patch-1",
         "illuminate/translation": "^12.0",
-        "doctrine/dbal": "^3.0",
+        "doctrine/dbal": "^4.4.1",
         "symfony/finder": "^7.0.3"
     },
     "require-dev": {
