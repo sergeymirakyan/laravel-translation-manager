@@ -17,9 +17,9 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^11.0",
+        "illuminate/support": "^12.0",
         "laravelcollective/html": "dev-sergeymirakyan-patch-1",
-        "illuminate/translation": "^11.0",
+        "illuminate/translation": "^12.0",
         "doctrine/dbal": "^3.0",
         "symfony/finder": "^7.0.3"
     },
